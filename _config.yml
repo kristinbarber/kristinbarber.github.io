@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kristin M. Barber"
+  name             : # "Kristin M. Barber"
   avatar           : "profile.png"
   bio              : ""
   location         : "Columbus, OH"
