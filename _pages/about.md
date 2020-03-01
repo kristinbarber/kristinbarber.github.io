@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a PhD student in the Computer Science and Engineering department at The Ohio State University, advised by Prof. Radu Teodorescu.
+Hello! I'm a PhD candidate in the Computer Science and Engineering department at The Ohio State University, advised by Prof. Radu Teodorescu.  Prior to joining OSU, I received a Master's degree from the University of Cincinnati working under Prof. Ranga Vermuri & Prof. Carla Purdy with a focus on VLSI, specifically physical hardware attacks and digital design verification technologies.  I have done internships at Intel Labs, NVIDIA and the Air Force Research Lab @ WPAFB.
 
-My research interests are broadly in computer architecture, and in particular fall along three axis: 
+My research interests are broadly in computer architecture, and in particular:
 
-* Hardware security  
-* Throughput acceleator design for performance and energy-efficiency
-* Hardware/Software co-design 
+* Hardware security: mitigations, vulnerability analysis and discovery
+* Throughput processor design for performance and energy-efficiency
+* Hardware/software co-design, generally the interplay between algorithm and implementation
