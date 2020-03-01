@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Hello!** I'm a PhD candidate in the Computer Science and Engineering department at **The Ohio State University**, advised by Prof. Radu Teodorescu.  
+**Hello!** 
+
+I'm a PhD candidate in the Computer Science and Engineering department at **The Ohio State University**, advised by Prof. Radu Teodorescu.  
 
 My research interests are broadly in **computer architecture**, and in particular:
 * **Hardware security**: mitigations, vulnerability analysis and discovery
