@@ -14,4 +14,4 @@ My research interests are broadly in computer architecture, and in particular fa
 
 * Hardware security  
 * Throughput acceleator design for performance and energy-efficiency
-* Hardware/Software co-design and the general artform of optimizing the space inbetween algorithmic description and impelmentation.
+* Hardware/Software co-design 
