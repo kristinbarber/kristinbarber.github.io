@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello!** 
+## **Hello!** 
 
 I'm a PhD candidate in the Computer Science and Engineering department at **The Ohio State University** where I'm a member of the Architecture Research Lab advised by **Prof. Radu Teodorescu**.  
 
