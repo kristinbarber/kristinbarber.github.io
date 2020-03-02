@@ -82,10 +82,9 @@ analytics:
 author:
   name             : # "Kristin M. Barber"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate"
+  bio              : "PhD Candidate. Computer Science and Engineering. Hardware Security."
   location         : "Columbus, OH"
-  employer         : "Computer Science and Engineering \n
-  					  The Ohio State University"
+  employer         : "The Ohio State University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :  "barber.m.kristin@gmail.com"
