@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## **Hello!** 
+# **Hello!** 
 
 I'm a PhD candidate in the Computer Science and Engineering department at **The Ohio State University** where I'm a member of the Architecture Research Lab advised by **Prof. Radu Teodorescu**.  
 
