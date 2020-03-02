@@ -82,12 +82,13 @@ analytics:
 author:
   name             : # "Kristin M. Barber"
   avatar           : "profile.jpg"
-  bio              : ""
+  bio              : "PhD Candidate"
   location         : "Columbus, OH"
-  employer         :
+  employer         : "Computer Science and Engineering
+  					  The Ohio State University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "barber.m.kristin@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "Kristin-"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "kristin-barber-44878135"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
