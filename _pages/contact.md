@@ -8,10 +8,10 @@ author_profile: true
 
 **Office**
 
-480D Baker Systems\s\s
-Neil Avenue\s\s
-The Ohio State University\s\s
-Columbus, OH 43201
+480D Baker Systems  
+Neil Avenue  
+The Ohio State University  
+Columbus, OH 43201  
 
 **E-mail**
 
