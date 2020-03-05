@@ -23,6 +23,6 @@ Presented at International Symposium on High-Performance Computer Architecture (
 Renji Thomas, Kristin Barber, Naser Sedaghati, Li Zhou, Radu Teodorescu  
 **Core Tunneling: Variation-Aware Voltage Noise Mitigation in GPUs**  
 International Symposium on High-Performance Computer Architecture (HPCA), 2016.  
-**Best Paper Nomination**
+**Best Paper Nomination**  
 [BibTeX] [PDF]
 
