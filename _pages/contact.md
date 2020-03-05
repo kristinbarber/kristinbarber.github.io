@@ -15,6 +15,5 @@ Columbus, OH 43201
 
 **E-mail**
 
-barber.m.kristin@gmail.com
-
+barber.m.kristin@gmail.com  
 barber.245@osu.edu
