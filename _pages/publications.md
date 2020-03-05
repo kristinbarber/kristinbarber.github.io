@@ -9,7 +9,18 @@ K. Barber, A. Bacha, L. Zhou, Y. Zhang, R. Teodorescu
 **SpecShield: Shielding Speculative Data from Microarchitectural Covert Channels**  
 International Conference on Parallel Architectures and Compilation Techniques (PACT), 2019.  
 **IEEE Micro Top Picks Honorable Mention**    
-[BibTeX] [ [PDF] ](https://kristinbarber.github.io/files/barber_pact19.pdf)
+<details>
+<summary>[BibTeX]</summary>
+<br>
+@inproceedings{barber2019specshield,
+	title="SpecShield: Shielding Speculative Data from Microarchitectural Covert Channels",
+	author="Kristin {Barber} and Anys {Bacha} and Li {Zhou} and Yinqian {Zhang} and Radu {Teodorescu}",
+	booktitle="2019 28th International Conference on Parallel Architectures and Compilation Techniques (PACT)",
+	pages="151--164",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2982776349",
+	year="2019"
+}
+</details>[ [PDF] ](https://kristinbarber.github.io/files/barber_pact19.pdf)
 
 K. Barber, A. Bacha, L. Zhou, Y. Zhang, R. Teodorescu  
 **Isolating Speculative Data to Prevent Transient Execution Attacks**  
