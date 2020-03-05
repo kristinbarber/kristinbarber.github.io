@@ -18,11 +18,11 @@ IEEE Computer Architecture Letters (CAL), 2019.
 Presented at Hardware and Architectural Support for Security and Privacy
 (HASP), 2019.  
 Presented at International Symposium on High-Performance Computer Architecture (HPCA), 2020.  
-[BibTeX] [PDF](https://kristinbarber.github.io/files/barber_cal19.pdf)
+[BibTeX] [[PDF]](https://kristinbarber.github.io/files/barber_cal19.pdf)
 
 Renji Thomas, Kristin Barber, Naser Sedaghati, Li Zhou, Radu Teodorescu  
 **Core Tunneling: Variation-Aware Voltage Noise Mitigation in GPUs**  
 International Symposium on High-Performance Computer Architecture (HPCA), 2016.  
 **Best Paper Nomination**  
-[BibTeX] [PDF](https://kristinbarber.github.io/files/thomas_hpca16.pdf)
+[BibTeX] [[PDF]](https://kristinbarber.github.io/files/thomas_hpca16.pdf)
 
