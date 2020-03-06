@@ -12,5 +12,5 @@ The Ohio State University
 Columbus, OH 43210  
 
 ## **E-mail**
-**Personal**:      {barber.m.kristin} AT gmail.com  (best place to reach me)  
+**Personal**:      {barber.m.kristin} AT gmail.com  **(best place to reach me)**
 **University**:    {barber.245} AT osu.edu
