@@ -13,7 +13,7 @@ redirect_from:
 I'm a PhD candidate in the Computer Science and Engineering department at **The Ohio State University** where I'm a member of the Architecture Research Lab advised by **Prof. Radu Teodorescu**.
 
 ## News
-2/20: Presentation in the Best of CAL awards session at HPCA 2020!
+> 2/20: Presentation in the Best of CAL awards session at HPCA 2020!
 
 ## About Me
 
