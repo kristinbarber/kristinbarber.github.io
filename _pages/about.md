@@ -14,6 +14,7 @@ I'm a PhD candidate in the Computer Science and Engineering department at **The 
 
 ## News
 > 2/20: Presentation in the Best of CAL awards session at HPCA 2020!
+
 > 1/20: SpecShield selected as 2019 IEEE Micro Top Picks Honorable Mention!
 
 ## About Me
