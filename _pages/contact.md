@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## **Office**
-480D Baker Systems  
-Neil Avenue  
+480D Baker Systems Engineering Bldg   
+1971 Neil Avenue  
 The Ohio State University  
-Columbus, OH 43201  
+Columbus, OH 43210  
 
 ## **E-mail**
-Personal: barber.m.kristin@gmail.com  
-University: barber.245@osu.edu
+{barber.m.kristin} AT gmail.com
+
