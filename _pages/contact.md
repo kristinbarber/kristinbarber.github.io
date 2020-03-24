@@ -12,5 +12,5 @@ The Ohio State University
 Columbus, OH 43210  
 
 ## **E-mail**
-{barber.m.kristin} AT gmail.com
+barber.m.kristin [at] gmail.com
 
