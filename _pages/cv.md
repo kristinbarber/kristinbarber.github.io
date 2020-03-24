@@ -1,6 +1,12 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://kristinbarber.github.io/files/barber_pact19.pdf
+permalink: /cv/
 author_profile: true
 ---
+
+<object data="https://kristinbarber.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://kristinbarber.github.io/files/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://kristinbarber.github.io/files/CV.pdf">[CV] PDF</a>.</p>
+    </embed>
+</object>
