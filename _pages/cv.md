@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/CV.pdf
+permalink: https://kristinbarber.github.io/files/barber_pact19.pdf
 author_profile: true
 ---
