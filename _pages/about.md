@@ -10,12 +10,12 @@ redirect_from:
 
 # **Hello!** 
 
-I'm a PhD candidate in the Computer Science and Engineering department at **The Ohio State University** where I'm a member of the Architecture Research Lab advised by **Prof. Radu Teodorescu**.
+I'm a PhD candidate in the [Computer Science and Engineering department](https://cse.osu.edu/) at **The Ohio State University** where I'm a member of the Architecture Research Lab advised by [**Prof. Radu Teodorescu**](http://web.cse.ohio-state.edu/~teodorescu.1).
 
 ## News
 > 2/20: Presentation in the Best of CAL awards session at HPCA 2020!
 
-> 1/20: SpecShield selected as 2019 IEEE Micro Top Picks Honorable Mention!
+> 1/20: SpecShield selected as 2019 **IEEE Micro Top Picks Honorable Mention!**
 
 ## About Me
 
