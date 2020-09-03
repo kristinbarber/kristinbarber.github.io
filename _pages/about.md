@@ -24,7 +24,15 @@ My research interests are broadly in **computer architecture**, and in particula
 * Throughput processor design for performance and energy-efficiency
 * Hardware/software co-design, generally the interplay between algorithm and implementation  
 
-Prior to joining OSU, I received a MSc from the Electrical and Computer Engineering department at the University of Cincinnati advised by Prof. Ranga Vemuri & Prof. Carla Purdy with a focus on VLSI, specifically physical hardware attacks and digital design verification technologies. I received a BSc from the Computer Science and Engineering department at Shawnee State University in my hometown of Portsmouth, Ohio.
+I have had the good fortune to intern with several industrial research labs and product teams:
+* **Pacific Northwest National Laboratory**, HPC/CENATE, Fall 2020
+* **Microsoft Research**, Confidential Computing, Summer 2020
+* **Air Force Research Lab**, Trusted and Assured Microelectronics, Summer 2019
+* **Intel Labs**, Microarchitecture Research, Fall/Spring 2017
+* **NVIDIA**, Tegra SoC Verification, Summer 2013
+* **Intel**, Graphics Hardware Validation, Spring/Summer 2011
 
-I have had the good fortune to intern at Intel Labs, NVIDIA and the Air Force Research Lab @ WPAFB. Projects have included improving HLS technologies, prototyping and evaluating verification methodologies, RISC-V integration and hardware security evaluation of processor microarchitectures.
+Prior to joining OSU, I received a MSc from the Electrical and Computer Engineering department at the University of Cincinnati; advised by Prof. Ranga Vemuri & Prof. Carla Purdy with a concentration in VLSI. Projects included circuit-level mitigations for physical hardware attacks and digital design verification methodologies. I received a BSc from the Computer Science and Engineering department at Shawnee State University in my hometown of Portsmouth, Ohio.
+
+
 
