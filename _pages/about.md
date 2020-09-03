@@ -28,7 +28,7 @@ I have had the good fortune to intern with several industrial research labs and 
 * **Pacific Northwest National Laboratory**, HPC/CENATE, Fall 2020
 * **Microsoft Research**, Confidential Computing, Summer 2020
 * **Air Force Research Lab**, Trusted and Assured Microelectronics, Summer 2019
-* **Intel Labs**, Microarchitecture Research, Fall/Spring 2017
+* **Intel Labs**, Microarchitecture Research, Winter/Spring 2017
 * **NVIDIA**, Tegra SoC Verification, Summer 2013
 * **Intel**, Graphics Hardware Validation, Spring/Summer 2011
 
