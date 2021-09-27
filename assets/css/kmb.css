@@ -1,0 +1,18 @@
+.social {
+  display: block;
+}
+
+a {
+  color: dodgerblue;
+  text-decoration: none;
+}
+
+a:focus, a:hover, a:active {
+  color: mediumslateblue;
+  text-decoration: none;
+}
+
+.text-responsive {
+  font-size: calc(1vw + 1vh);
+}
+
