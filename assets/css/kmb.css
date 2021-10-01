@@ -13,6 +13,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-responsive {
-  font-size: calc(1vw + 1vh);
+  font-size: 20px;
+  /*align-items: center;*/
 }
 
